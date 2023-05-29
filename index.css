@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.but{
+    text-align: center;
+    font-size: 100px;
+    display: flex;
+    height: 200px;
+    width: 500px;
+    background-color: aquamarine;
+    
+}
+.plus{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 500px;
+    display: flexbox;
+}
+.count{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 500px;
+    display: flexbox; 
+}
